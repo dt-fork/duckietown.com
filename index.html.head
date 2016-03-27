@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Duckietown Engineering Co. official web page</title>
+
+   <!-- <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">-->
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-155626-22', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<style type='text/css'>
+body {background-color: #000099; /*#07BDFA; */
+	color:#FAC907; font-size: 130%;
+font-family: "Comic Sans MS", serif;}
+
+ strong { color: #ff9966;}
+ a { color:  #ff9966;}
+ table a { color: #FAC907; text-decoration: none;}
+ h3 { color: #ff9966; margin-top: 4em; }
+</style>
+    <div class="wrapper">
+      <header>
+        
+        <p></p>
+ 
+      </header>
+      <section style='padding: 2em'>
+      <img style='float: left; width: 12em; margin-right: 3em' src='media/duckietown-engineering.png'/>
+        <h1 ><br/>Duckietown <br/> 
+        	<span style='color:  #ff9966'>Engineering</span> co.</h1>
+<div style='width: 30em; clear: left'>
+<p ><br/><br/><strong>Multiple positions available</strong>: 
+We are hiring motivated <strong>vehicle autonomy engineers</strong> to create the best autonomous robo-taxis system for the city of Duckietown.</p>
+
+<p>Starting date: February 3rd, 2016 (not flexible).</p>
+
+<p>Benefits: Abundant supply of duckies for personal use.</p>
+
+<p> Qualifications required: <a href="http://duckietown.mit.edu/">MIT 2.166</a>.</p>
+<br/>
+<br/>
+</div>
+
+
+  <article class="post-content">
+    <style type="text/css">
+img.person { height: 8em;}
+img.robot { height: 8em;}
+table#roster TD {  vertical-align: top;}
+table#roster  tr td:first-child { text-align: center;}
+table#roster  tr td { padding-left: 2em; }
+tr.roles td {padding-top: 2em; margin-right: -4em; font-size: 150%;
+color: #004; font-weight: bold; }
+
+table#roster  tr td {padding-top: 2em;}
+</style>

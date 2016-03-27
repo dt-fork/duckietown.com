@@ -71,25 +71,18 @@ color: #004; font-weight: bold; }
 table#roster  tr td {padding-top: 2em;}
 </style>
 
+
 <table id='roster'>
 	<tr class='roles' id="first" colspan="2"> <td> <strong>Duckietown Engineering Co.</strong> </td> </tr>
+
 	<tr>
 		<td><img class="person" src="media/staff/leonard.jpg"/></td>
 		<td>
-			<strong>Director of Research</strong><br/>
+			<strong>Chief Executive Officer</strong><br/>
 			<a href="https://marinerobotics.mit.edu/">John Leonard</a><br/>
 			MechE/CSAIL <br/><br/>
 		</td>
 	</tr>
-
-	<tr>
-		<td><img class="person" src="media/staff/rus.jpg"/></td>
-		<td>
-			<strong>Chief Executive Officer</strong><br/>
-			<a href="https://www.csail.mit.edu/user/876">Daniela Rus</a><br/>EECS/CSAIL<br/><br/>
-		</td>
-	</tr>
-
 	<tr>
 		<td><img class="person" src="media/staff/how.jpg"/></td>
 		<td>
@@ -107,19 +100,12 @@ table#roster  tr td {padding-top: 2em;}
 	<a href="">Information &amp; Intelligent Systems (IIS)</a>
 	<br/><br/>
 		<a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503641">
-			<strong>National Robotics Initiative</strong>, 
+			National Robotics Initiative
 		</a> <br/>
 		<a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503305">
-			<strong>Robust Intelligence</strong>
+			Robust Intelligence
 		</a> 
 		</td>
-	</tr>
-
-	<tr class='roles'> <td> <strong>Series-B Investors</strong> </td> </tr>
-
-	<tr>
-	<td><img class="person" src="media/staff/theconstruct.jpg"/></td>
-	<td><a href="http://www.theconstructsim.com">The Construct</a></td>
 	</tr>
 	
 	<tr class='roles'> <td> <strong>Advisory Board</strong> </td> </tr>
@@ -143,7 +129,11 @@ table#roster  tr td {padding-top: 2em;}
 		<td><a href="http://karaman.mit.edu/">Sertac Karaman</a><br/>AeroAstro/LIDS <br/><br/></td>
 	</tr>
 
-	
+	<tr>
+		<td><img class="person" src="media/staff/rus.jpg"/></td>
+		<td><a href="https://www.csail.mit.edu/user/876">Daniela Rus</a><br/>EECS/CSAIL<br/><br/></td>
+	</tr>
+
 	
 	<tr class='roles'>  <td> <strong>Operations</strong> </td> </tr>
 	<tr>
@@ -250,6 +240,7 @@ table#roster  tr td {padding-top: 2em;}
 
 
 </table>
+
 
 
 <h3>Frequently asked questions</h3>
