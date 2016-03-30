@@ -25,15 +25,18 @@
 
 </script>
 <style type='text/css'>
-body {background-color: #000099; /*#07BDFA; */
-	color:#FAC907; font-size: 130%;
-font-family: "Comic Sans MS", serif;}
+body {
+  background-color: white; /*#07BDFA; */
+	/*color:#FAC907; font-size: 130%;*/
+/*font-family: "Comic Sans MS", serif;*/
 
- strong { color: #ff9966;}
+}
+
+/* strong { color: #ff9966;}
  a { color:  #ff9966;}
  table a { color: #FAC907; text-decoration: none;}
  h3 { color: #ff9966; margin-top: 4em; }
-</style>
+*/</style>
     <div class="wrapper">
       <header>
         
@@ -41,20 +44,24 @@ font-family: "Comic Sans MS", serif;}
  
       </header>
       <section style='padding: 2em'>
+      <div style='padding-left: 20%'>
+      <p style='text-align: center'>
       <img style='float: left; width: 12em; margin-right: 3em' src='media/duckietown-engineering.png'/>
+      </p>
         <h1 ><br/>Duckietown <br/> 
         	<span style='color:  #ff9966'>Engineering</span> co.</h1>
 <div style='width: 30em; clear: left'>
 <p ><br/><br/><strong>Multiple positions available</strong>: 
 We are hiring motivated <strong>vehicle autonomy engineers</strong> to create the best autonomous robo-taxis system for the city of Duckietown.</p>
-
+<!-- 
 <p>Starting date: February 3rd, 2016 (not flexible).</p>
-
+ -->
 <p>Benefits: Abundant supply of duckies for personal use.</p>
 
 <p> Qualifications required: <a href="http://duckietown.mit.edu/">MIT 2.166</a>.</p>
 <br/>
 <br/>
+</div>
 </div>
 
 
